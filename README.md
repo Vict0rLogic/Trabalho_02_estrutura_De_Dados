@@ -1,4 +1,4 @@
-# Trabalho_02_estrutura_De_Dados
+# Trabalho_02_estrutura_De_Dados 
 Este repositório contém os códigos de demonstração para o seminário de Estrutura de Dados I, conforme as especificações do Trabalho passado pelo professor.
 
 ## Descrição
